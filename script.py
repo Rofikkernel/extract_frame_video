@@ -1,3 +1,5 @@
+#2025 RofikKernel
+
 import cv2
 import os
 
